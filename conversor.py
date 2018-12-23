@@ -1,3 +1,9 @@
+'''
+USAGE:
+With python installed, open a terminal and write
+'python conversor.py VALUE'
+VALUE being a decimal, hexadecimal(0x), octal(0o) or binary(0b) number
+'''
 from enum import Enum
 import sys
 
